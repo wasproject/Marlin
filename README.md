@@ -1,3 +1,5 @@
+test of github and fimware mod by wasproject
+
 WARNING: 
 --------
 THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
